@@ -4,7 +4,7 @@ title: Formación intensiva en Microsoft Teams
 ---
 
 
-![]({{ site.baseurl }}/images/capturacertificadoms700gadesoft.png)
+![](jcarlosmartin.github.io/images/capturacertificadoms700gadesoft.png)
 
 Para terminar el año 2020 quería compartir los certificados de formación de tres cursos que he realizado en este mes de Diciembre en relación a Microsoft 365 y más específicamente a Microsoft Teams.
 
