@@ -4,7 +4,7 @@ title: Cinco consejos para mejorar la productividad personal en 2021
 ---
 Este artículo lo escribí y se publicó originalmente en el blog de Telefónica “Think Big Empresas, puedes leerlo también aquí:  [Cinco consejos para mejorar la productividad personal en 2021](https://empresas.blogthinkbig.com/consejos-para-mejorar-productividad/).
 
-![]({{ site.baseurl }}/images/fotopostproductividad.jpg)
+![ejemplo]({{ site.baseurl }}/images/fotopostproductividad.jpg)
 
 El comienzo de un nuevo año siempre es un buen motivo para reflexionar acerca de lo sucedido el año anterior y plantearse algunos propósitos de mejora. Creo que en la lista de 2021 más que nunca no debe faltar algún objetivo relacionado con mejorar la forma en la que trabajamos. La situación generada por la pandemia, que ha supuesto que pasemos [gran parte de 2020 trabajando desde casa](https://empresas.blogthinkbig.com/teletrabajo-y-circunstancias-desde-casa-con-humor), nos lleva a reflexionar acerca de algunos hábitos de trabajo que deberíamos reafirmar o corregir. Se trata, al fin y al cabo, de intentar mejorar nuestra **productividad personal**.
 
