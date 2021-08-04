@@ -3,7 +3,7 @@ layout: post
 title: Lavado de cara a la web de TEDxAlcarriaSt
 ---
 
-![[capturanuevawebtedx_1.png]]
+![](jcarlosmartin.github.io/images(capturanuevawebtedx_1.png)
 
 Durante las pasadas vacaciones de Navidad destiné algunos horas a darle un lavado de cara a la web de TEDxAlcarriaSt aprovechando que había visto algún video del plug-in Elementor de WordPress donde mostraban su potencia y facilidad de uso.
 
@@ -11,4 +11,4 @@ La verdad estoy bastante contento con el resultado. He aprovechado para subir al
 
 El resultado lo podéis ver en [www.tedxalcarriast.com](http://www.tedxalcarriast.com/), espero que os guste!
 
-![[capturanuevawebtedx_2.png]]
+![](jcarlosmartin.github.io/images/capturanuevawebtedx_2.png)
